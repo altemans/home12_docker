@@ -1,0 +1,6 @@
+rpm [p9] http://ftp.altlinux.org/pub/distributions/ALTLinux p9/branch/x86_64 classic
+rpm [p9] http://ftp.altlinux.org/pub/distributions/ALTLinux p9/branch/x86_64-i586 classic
+rpm [p9] http://ftp.altlinux.org/pub/distributions/ALTLinux p9/branch/noarch classic
+
+rpm http://ftp.altlinux.org/pub/distributions/ALTLinux/autoimports/p9 x86_64 autoimports
+rpm http://ftp.altlinux.org/pub/distributions/ALTLinux/autoimports/p9 noarch autoimports

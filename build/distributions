@@ -1,0 +1,7 @@
+Origin: altemans
+Label: altemans
+Codename: deb
+AlsoAcceptFor: unstable experimental
+Architectures: i386 amd64 source
+Components: main contrib non-free
+Description: local repository
